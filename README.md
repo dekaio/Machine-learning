@@ -10,7 +10,7 @@ Machine learning learners code
 ### Statistical significance(alpha), Pvalue and Null Hypothesis   
 ### Building a model   
 1. All-in- If there is prior knowledge or you have to or preparing for backward elimination 
-2. Backward Elimination    
+2. Backward Elimination(Fastest one)   
 Step 1. Select a significance level to stay in the model (eg SL = 0.05)   
 Step 2. Fit the full model with all possible predictors.   
 Step 3. Cosider the predictor with the highest P-value. If P> SL, go to Step 4, otherwise go to 5   
