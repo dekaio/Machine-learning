@@ -7,7 +7,8 @@ Machine learning learners code
 3. Multivariate normality
 4. Independence of errors
 5. Lack of multicollinearity 
-## Multiple Linear Regression
+## Multiple Linear Regression   
+In multiple linear regression, there is no need for feature scaling, since the coefficients will compensate the feature value.   
 ### Statistical significance(alpha), Pvalue and Null Hypothesis   
 ### Building a model   
 1. All-in- If there is prior knowledge or you have to or preparing for backward elimination 
