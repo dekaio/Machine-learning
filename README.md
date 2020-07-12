@@ -1,14 +1,14 @@
 # Machine-learning
 Machine learning learners code
-##Linear Regression
-###Assumptions of linear Regression   
+## Linear Regression
+### Assumptions of linear Regression   
 1. Linearity
 2. Homoscedasticity
 3. Multivariate normality
 4. Independence of errors
-5. Lack of multicollinearity 
-###Statistical significance(alpha), Pvalue and Null Hypothesis
-###Building a model   
+5. Lack of multicollinearity   
+### Statistical significance(alpha), Pvalue and Null Hypothesis   
+### Building a model   
 1. All-in- If there is prior knowledge or you have to or preparing for backward elimination 
 2. Backward Elimination    
 Step 1. Select a significance level to stay in the model (eg SL = 0.05)   
