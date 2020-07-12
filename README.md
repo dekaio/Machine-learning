@@ -6,9 +6,8 @@ Machine learning learners code
 2. Homoscedasticity
 3. Multivariate normality
 4. Independence of errors
-5. Lack of multicollinearity   
+5. Lack of multicollinearity 
 ###Statistical significance(alpha), Pvalue and Null Hypothesis
-
 ###Building a model   
 1. All-in- If there is prior knowledge or you have to or preparing for backward elimination 
 2. Backward Elimination    
