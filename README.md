@@ -28,4 +28,6 @@ Step 1: Select a significance level to enter and to stay in the model.(eg. SLent
 Step 2: Perform the next step of forward selection(new variables must have P<SLenter to enter)   
 Step 3: Perform all steps of backward elimination(old variables must have P<slstay to stay)   
 Step 4. No new variables can enter and no old variables can exit.   
-5. Score Comparison
+5. Score Comparison   
+
+Backward elimination is irrelevant in python because the sklearn library automatically takes care of selecting the statistically significant features while training the model to make accurate predictions.
