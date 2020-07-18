@@ -31,3 +31,12 @@ Step 4. No new variables can enter and no old variables can exit.
 5. Score Comparison   
 
 Backward elimination is irrelevant in python because the sklearn library automatically takes care of selecting the statistically significant features while training the model to make accurate predictions.
+
+## Polynomial Linear Regression
+y = b0 +b1x1 + b2x1^2+ ...+ bnx1^n   
+Why is it called as linear?   
+Linearity depends upon the coefficients. 
+
+
+
+
