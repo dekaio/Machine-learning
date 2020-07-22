@@ -36,7 +36,11 @@ Backward elimination is irrelevant in python because the sklearn library automat
 y = b0 +b1x1 + b2x1^2+ ...+ bnx1^n   
 Why is it called as linear?   
 Linearity depends upon the coefficients. 
-
+## Support Vector Regression
+### When to apply feature scaling?
+  If the output values are much higher than the features.   
+  If the features are in binary, then no need to apply feature scaling.   
+  No need to apply feature scaling for variables for which one hot encoding was done.   
 
 
 
