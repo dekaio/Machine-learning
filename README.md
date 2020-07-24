@@ -41,6 +41,8 @@ Linearity depends upon the coefficients.
   If the output values are much higher than the features.   
   If the features are in binary, then no need to apply feature scaling.   
   No need to apply feature scaling for variables for which one hot encoding was done.   
-
+## Decision tree regression
+  CERT (Classification and Regression Trees)   
+  
 
 
