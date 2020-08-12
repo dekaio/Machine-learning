@@ -50,3 +50,14 @@ Step 2: Build the decision tree associated to these K data points.
 Step 3: Choose the number Ntree of trees you want to build and repeat Steps 1 and 2.   
 Step 4: For a new data point, make each one of our Ntree trees predict the value of Y to for the data point in question and assign the new data point the average across all of the predicted Y values.
 
+## Reinforcement Learning
+### Upper Confidence Bound(UCB) Intuition
+  Step 1: At each round n, we consider two numbers for each ad i;
+  * Ni(n) - the number of times the ad i was selected up to round n
+  * Ri(n) - the sum of rewards of the ad i up to round n
+  Step 2: From these two numbers we compute
+  * the average reward of ad i up to round n
+  * the confidence interval at round n
+  Step 3: We select the ad i that has the maximum UCB
+
+
