@@ -59,5 +59,5 @@ Step 4: For a new data point, make each one of our Ntree trees predict the value
   * the average reward of ad i up to round n
   * the confidence interval at round n
   Step 3: We select the ad i that has the maximum UCB
-  <img src = "/images/UCBalgorithm.png">
+  ![RCB algorithm](https://github.com/dekaio/Machine-learning/blob/master/images/UCBalgorithm.PNG)
 
